@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d13f407-3649-4be0-ab78-05c7a5e49611" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10_functions_leap_year_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day11_BlackJack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day15_Coffee_Machine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day16_start/another_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day16_start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day18_hrist_painting/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day18_hrist_painting/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day18_start_random_walk/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day19_higher_order_functions/main_turtle_draw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day19_higher_order_functions/main_turtle_race.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day20_snake_game/main_snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day24_Files_and_directories/Anish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day24_Mail_Merge/Input/Letters/starting_letter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day24_Mail_Merge/Input/Names/invited_names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day24_Mail_Merge/Output/ReadyToSend/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day24_Mail_Merge/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day25_Pandas/main_squirrel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day25_Pandas/squirrel.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day25_Pandas/weather_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day25_us_states_game_start/50_states.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day25_us_states_game_start/blank_states_img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day25_us_states_game_start/main_states.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day26_List_Comprehension/NATO-alphabet-start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day26_List_Comprehension/NATO-alphabet-start/nato_phonetic_alphabet.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day26_List_Comprehension/dict_comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day26_List_Comprehension/exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day26_List_Comprehension/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day26_List_Comprehension/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day26_List_Comprehension/list_comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day27_tkinter_kwargs/playground.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day27_tkinter_kwargs/tkinter_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day27_tkinter_kwargs/tkinter_main_miles_km.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_ifelse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4_Rock_Paper_Scissors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4_list_of_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4_list_random_challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4_random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day5_HighestScore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day5_PasswordGenerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day5_RangeFn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day6_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day7_Hangman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day8_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_dictionaries_challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_dictionaries_nested.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9_dictionaries_proj_max_bidder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_module.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2vcKuacKx3T2M2I7Rq88Rr8LZu6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Day10_functions_leap_year_exercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day12_Number_Guessing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day12_Scope.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day14_Higher_Lower.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day15_Coffee_Machine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day4_Rock_Paper_Scissors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day4_list_of_lists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day4_list_random_challenge.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day4_lists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day4_random.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day5_HighestScore.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day5_PasswordGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day5_RangeFn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day6_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day7_Hangman.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day8_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day9_dictionaries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day9_dictionaries_challenge.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day9_dictionaries_final_proj.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day9_dictionaries_nested.executor&quot;: &quot;Run&quot;,
+    &quot;Python.comprehension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict_comprehension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Python.main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (3).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (4).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_snake (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_squirrel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_states (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_states.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_turtle_draw (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_turtle_race.executor&quot;: &quot;Run&quot;,
+    &quot;Python.playground.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quiz_brain.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tkinter_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tkinter_main_miles_km.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenovo/PycharmProjects/PythonProject/Day27_tkinter_kwargs&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\PycharmProjects\PythonProject\Day27_tkinter_kwargs" />
+      <recent name="C:\Users\lenovo\PycharmProjects\PythonProject\Day26_List_Comprehension" />
+      <recent name="C:\Users\lenovo\PycharmProjects\PythonProject" />
+      <recent name="C:\Users\lenovo\PycharmProjects\PythonProject\Day25_Pandas" />
+      <recent name="C:\Users\lenovo\PycharmProjects\PythonProject\Day19_higher_order_functions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\PycharmProjects\PythonProject\Day16_start" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.tkinter_main_miles_km">
+    <configuration name="dict_comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day26_List_Comprehension" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day26_List_Comprehension/dict_comprehension.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day26_List_Comprehension/NATO-alphabet-start" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day26_List_Comprehension/NATO-alphabet-start/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="playground" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day27_tkinter_kwargs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day27_tkinter_kwargs/playground.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tkinter_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day27_tkinter_kwargs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day27_tkinter_kwargs/tkinter_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tkinter_main_miles_km" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day27_tkinter_kwargs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day27_tkinter_kwargs/tkinter_main_miles_km.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tkinter_main_miles_km" />
+        <item itemvalue="Python.tkinter_main" />
+        <item itemvalue="Python.playground" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.dict_comprehension" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d13f407-3649-4be0-ab78-05c7a5e49611" name="Changes" comment="" />
+      <created>1744439147627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744439147627</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day1.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day15_Coffee_Machine.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day15_Coffee_Machine.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day15_Coffee_Machine.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day16_start/oop-coffee-machine-start/menu.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day16_start/oop-coffee-machine-start/money_machine.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day16_start/oop-coffee-machine-start/coffee_maker.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day16_start/oop-coffee-machine-start/coffee_maker.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day17_quiz_game_start/quiz_brain.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day18_hrist_painting/main.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day24_Mail_Merge/main.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day25_us_states_game_start/main_states.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day25_us_states_game_start/main_states.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day25_us_states_game_start/main_states.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
